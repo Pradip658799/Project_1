@@ -1,2 +1,4 @@
 # Project_1
-This is my First Git Repository. Author - Pradip Solunke
+This is my First Git Repository.
+<br>
+Author - Pradip Solunke
